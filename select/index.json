@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "凍る砂",
+  "base_artist": "新居昭乃",
+  "createdAt": "2026-03-30T12:49:33.611152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "凍る砂",
+      "artist": "Akino Arai",
+      "has_synced": false,
+      "path": "select/01_凍る砂_Akino_Arai.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "凍る砂 - Ko-ru Suna",
+      "artist": "Akino Arai",
+      "has_synced": false,
+      "path": "select/02_凍る砂_-_Ko-ru_Suna_Akino_Arai.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "凍る砂",
+      "artist": "新居昭乃",
+      "has_synced": false,
+      "path": "select/03_凍る砂_新居昭乃.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "凍る砂",
+      "artist": "新居 昭乃",
+      "has_synced": false,
+      "path": "select/pl_01_凍る砂_新居_昭乃.txt"
+    }
+  ]
+}
